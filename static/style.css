@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: url('big backgroung.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff; /* Ensure text is visible on background */
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.85); /* Darker shade for better contrast */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    max-width: 800px; /* Matches paragraph width */
+    margin: 0 auto; /* Center the header horizontally */
+    border-radius: 8px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Center the nav items */
+    gap: 15px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent for content */
+    margin: 20px auto;
+    max-width: 800px; /* Same width as header for consistency */
+    border-radius: 8px;
+    color: #fff; /* Ensure text color is readable */
+}
+
+p, h2, h3 {
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8); /* Improve readability */
+    line-height: 1.6; /* Better line spacing */
+}
+
+footer {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.85);
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    max-width: 800px; /* Same width as header and main content */
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
