@@ -1,13 +1,10 @@
 ﻿## Fitness First
-Fitness First is a gym website built using Flask for the backend and HTML/CSS for the frontend. It offers a user-friendly interface to manage gym memberships, schedules, and more.Purpose
+Fitness First is a simple gym website built using Flask for the backend and HTML/CSS for the frontend. It offers a user-friendly interface to manage gym memberships, schedules, and more.
+
+## Purpose
 The purpose of this project is to provide a simple, dynamic platform for gym management. Users can interact with different sections of the gym such as membership plans, schedules, and facilities.
-
-## Running Locally
-To run this project locally, follow these steps:
-
-## Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
 
 ## Requirements
 Python 3.x Flask
+
 
